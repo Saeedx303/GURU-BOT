@@ -54,21 +54,21 @@ global.botname = 'Babli×Babli'
 global.premium = 'true'
 global.packname = 'Babli×Babli' 
 global.author = '@Babli' 
-global.menuvid = 'https://telegra.ph/BabliBabli-12-09'
+global.menuvid = 'https://i.imgur.com/hpCejRf.jpg'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
+global.dygp = 'https://chat.whatsapp.com/Hzj7uipWnzNEFJi0pBk4YJ'
+global.fgsc = 'https://github.com/Saeedx303/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
-global.rwait = '🕚'
+global.wait = '🖕🏿 _Charging..._*\n*▰▰▰▱▱▱▱🥰*'
+global.rwait = '♥️'
 global.dmoji = '🐒'
 global.done = '🖕🏿'
-global.error = '😔' 
+global.error = '🖕🏿' 
 global.xmoji = '👾' 
 
 global.multiplier = 69 
